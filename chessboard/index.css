@@ -8,7 +8,7 @@
     width: 640px;
     height: 80px;
     position: relative;
-    border: 2px solid;
+    border: 1px solid;
 }
 
 .figure {
@@ -17,13 +17,13 @@
 }
 
 .white {
-    background-color: white;
+    background-color: rgb(204, 139, 82);
     height: 80px;
     width: 80px;
 }
 
 .black {
-    background-color: black;
+    background-color: rgb(87, 63, 50);
     height: 80px;
     width: 80px;
 }
@@ -32,46 +32,54 @@
     position: absolute;
     top: 0px;
     left: 0px;
+    border: 1px solid;
 }
 
 .p2 {
     position: absolute;
     top: 0px;
     left: 80px;
+    border: 1px solid;
 }
 
 .p3 {
     position: absolute;
     top: 0px;
     left: 160px;
+    border: 1px solid;
 }
 
 .p4 {
     position: absolute;
     top: 0px;
     left: 240px;
+    border: 1px solid;
 }
 
 .p5 {
     position: absolute;
     top: 0px;
     left: 320px;
+    border: 1px solid;
 }
 
 .p6 {
     position: absolute;
     top: 0px;
     left: 400px;
+    border: 1px solid;
 }
 
 .p7 {
     position: absolute;
     top: 0px;
     left: 480px;
+    border: 1px solid;
 }
 
 .p8 {
     position: absolute;
     top: 0px;
     left: 560px;
+    border: 1px solid;
 }
