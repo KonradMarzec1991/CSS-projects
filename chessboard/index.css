@@ -1,7 +1,6 @@
 .chessboard {
-    position: absolute;
-    top: 10%;
-    left: 10%;
+    position: fixed;
+    margin: auto 100px;
 }
 
 .line {
@@ -17,7 +16,7 @@
 }
 
 .white {
-    background-color: rgb(204, 139, 82);
+    background-color: rgb(240, 187, 141);
     height: 80px;
     width: 80px;
 }
