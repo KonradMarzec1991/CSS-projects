@@ -1,0 +1,71 @@
+.chessboard {
+    position: absolute;
+    margin: auto;
+}
+
+.line {
+    width: 640px;
+    height: 80px;
+    position: relative;
+    border: black 2px;
+}
+
+.white {
+    background-color: white;
+    height: 80px;
+    width: 80px;
+}
+
+.black {
+    background-color: black;
+    height: 80px;
+    width: 80px;
+}
+
+.p1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.p2 {
+    position: absolute;
+    top: 0px;
+    left: 80px;
+}
+
+.p3 {
+    position: absolute;
+    top: 0px;
+    left: 160px;
+}
+
+.p4 {
+    position: absolute;
+    top: 0px;
+    left: 240px;
+}
+
+.p5 {
+    position: absolute;
+    top: 0px;
+    left: 320px;
+}
+
+.p6 {
+    position: absolute;
+    top: 0px;
+    left: 400px;
+}
+
+.p7 {
+    position: absolute;
+    top: 0px;
+    left: 480px;
+}
+
+.p8 {
+    position: absolute;
+    top: 0px;
+    left: 560px;
+}
